@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!.md/
+!.src/
+!.config/wofi/
+!.config/hypr/
+!.config/nvim/
+!.config/waybar/
+!.config/kitty/
