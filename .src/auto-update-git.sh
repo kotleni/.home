@@ -10,5 +10,5 @@ git add -f .config/kitty/
 git add -f .config/hypr/
 git add -f .config/waybar/
 
-git commit -m 'chore(auto): ${key}'
+git commit -m "chore(auto): ${key}"
 git push -u origin lgbt-edition
